@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=297AF7&center=true&width=435&lines=Engenheira+de+Dados)](https://git.io/typing-svg)
+
 ### Hi there 👋
 Aqui é a Laryssa Pereira, caiçara que realizou transição dee carreira em 2022, ex funcionária Publica e adora conhecimento 💻 e Atualmente Analista de Gonvernança de Dados  - Engenharia de Dados
 
