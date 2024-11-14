@@ -1,11 +1,21 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=297AF7&center=true&width=435&lines=Engenheira+de+Dados)](https://git.io/typing-svg)
 
 ### Hi there 👋
-Aqui é a Laryssa Pereira, caiçara que realizou transição dee carreira em 2022, ex funcionária Publica e adora conhecimento 💻 e Atualmente Analista de Gonvernança de Dados  - Engenharia de Dados
+
+> [!IMPORTANT]\
+> Aqui é a Laryssa Pereira, caiçara que tomou a decisão de realizar a transição dee carreira em 2021 e conseguiu concretizar em 2022, formada em Arquitetura e Urbanismo, Ex funcionária Pública e por adorar conhecimento resolveu mudar de vida!
+> Consegui oportunidades como Trainee, Analista de Governança de dados e finalmente, consegui o meu objetivo em Engenharia de Dados.
+
+<br>
+
+---
 
 ### Expertise 🤓
 Formada em Licenciatura de Matemática e MBA em Gerenciamento de Projetos - estudante contínua em dados | BigData
 
+<br>
+
+---
 ### Tech Stack 👽
 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -23,5 +33,9 @@ Formada em Licenciatura de Matemática e MBA em Gerenciamento de Projetos - estu
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
-### Redes Sociais
+
+<br>
+
+---
+### Contato
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laryssaspereira/)
