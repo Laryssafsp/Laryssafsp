@@ -1,20 +1,31 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Patrick+Hand&pause=1000&color=77F724CA&center=true&vCenter=true&multiline=true&random=true&width=435&lines=Apaixonada+por+Dados+e+Conhecimento.+.+.+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Patrick+Hand&pause=1000&color=77F724CA&center=true&vCenter=true&multiline=true&random=true&width=435&lines=Apaixonada+por+Dados+e+Conhecimento+.+.+.)](https://git.io/typing-svg)
 
 <h3 align="center">Data Engineer | Data Governance | Analytics</h3>
 
 ---
 
-### Olá! 👋 Seja bem-vindo(a)
+### 👋 Olá! Seja bem-vindo(a)
 
 > [!IMPORTANT]\
 > Eu sou a **Laryssa Pereira**, uma caiçara apaixonada por conhecimento e desafios. Em 2021, decidi mudar de vida e iniciei minha transição de carreira. Em 2022, realizei esse sonho! Sou formada em Arquitetura e Urbanismo, ex-servidora pública, e encontrei nos dados minha nova vocação. Desde então, conquistei oportunidades como **Trainee**, **Analista de Governança de Dados** e hoje atuo como **Engenheira de Dados**, meu grande objetivo.
 
 ---
 
+### 👩‍💻 Sobre Mim
+
+- 🌊 Caiçara e apaixonada por tecnologia e dados  
+- 🔁 Em constante aprendizado e evolução  
+- 🎯 Foco em Engenharia de Dados e Governança  
+- 💡 Curiosa, analítica e colaborativa  
+- 💬 Sempre aberta a trocar experiências!  
+
+---
+
 ### 🎓 Formação & Especializações
-- Licenciatura em Matemática  
-- MBA em Gerenciamento de Projetos  
-- Estudante contínua em dados | Big Data & Engenharia de Dados  
+
+- 🎓 Licenciatura em Matemática  
+- 🎓 MBA em Gerenciamento de Projetos  
+- 📚 Estudante contínua em Dados | Big Data & Engenharia de Dados  
 
 ---
 
@@ -37,6 +48,15 @@
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+
+---
+
+### 📚 Compilado de Conhecimentos
+
+- [🚀 Transição de Carreira](https://github.com/Laryssafsp/Transicao-de-Carreira)
+- [📊 Power BI](https://github.com/Laryssafsp/PowerBI)
+- [🧠 SQL](https://github.com/Laryssafsp/SQL)
+- [🐍 Python](https://github.com/Laryssafsp/Python)
 
 ---
 
