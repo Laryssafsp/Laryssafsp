@@ -1,4 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Patrick+Hand&pause=1000&color=77F724CA&center=true&vCenter=true&multiline=true&random=true&width=600&lines=Transformando+dados+em+decisões+estratégicas;Engenharia+de+Dados+na+prática;Governança+%7C+Analytics+%7C+Big+Data)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Patrick+Hand&pause=1000&color=77F724CA&center=true&vCenter=true&multiline=true&random=true&width=600&lines=Governança+%7C+Analytics+%7C+Big+Data" />
+  </a>
+</p>
 
 <h2 align="center">🚀 Laryssa Pereira</h2>
 <h3 align="center">Data Engineer | Data Governance | Analytics</h3>
