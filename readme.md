@@ -31,7 +31,6 @@ Com background em Arquitetura, experiência no setor público e passagem por con
     - Linhagem de dados  
     - Padronização e confiabilidade dos dados  
   - Criação e análise de dashboards para suporte à tomada de decisão  
-  - Atuação em ambiente ágil com **Scrum (PSPO)**, utilizando **Jira** para gestão de tarefas  
   - Documentação e colaboração técnica com **Confluence e SharePoint** 
 
 - 📊 **Governança de Dados (Cielo)**  
@@ -84,6 +83,12 @@ Com background em Arquitetura, experiência no setor público e passagem por con
 - 🎓 MBA em Gerenciamento de Projetos  
 - 📚 Especialização contínua em Engenharia de Dados  
 
+| Certificações | Links |
+|--------|--------------|
+|Astronomer Certification for Apache Airflow 3 Fundamentals|[Certificado](https://www.credly.com/earner/earned/badge/59e05a1c-c9b9-4388-b093-b2a9a129b3a3)|
+|AWS Certified Cloud Practitioner|[Certificado](https://www.credly.com/earner/earned/badge/eb65a5cd-4153-45ff-9ce5-d70a20740edf)|
+|Certificado Profissional de Análise de Dados do Google|[Certificado](https://www.credly.com/earner/earned/badge/b8abe18c-600a-4a43-be8d-7e4b8a910d82)|
+|Professional Scrum Product Owner™ I (PSPO I)|[Certificado](https://www.credly.com/earner/earned/badge/98216edc-3bc2-4b72-a457-cc4aa881ae43)|
 ---
 
 ### 🌍 Vamos nos conectar?
